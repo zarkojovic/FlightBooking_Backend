@@ -1,0 +1,1507 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68836CC-619E-43EB-9809-3DF0E98D76F3}|GETFlightApp.Tests\\GETFlightApp.Tests.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.tests\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68836CC-619E-43EB-9809-3DF0E98D76F3}|GETFlightApp.Tests\\GETFlightApp.Tests.csproj|solutionrelative:getflightapp.tests\\usertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.dataaccess\\aspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|solutionrelative:getflightapp.dataaccess\\aspcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68836CC-619E-43EB-9809-3DF0E98D76F3}|GETFlightApp.Tests\\GETFlightApp.Tests.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.tests\\flighttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68836CC-619E-43EB-9809-3DF0E98D76F3}|GETFlightApp.Tests\\GETFlightApp.Tests.csproj|solutionrelative:getflightapp.tests\\flighttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\usecases\\commands\\reservation\\efcreatereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\usecases\\commands\\reservation\\efcreatereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\usecases\\commands\\user\\iregisterusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\usecases\\commands\\user\\iregisterusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\usecases\\commands\\user\\efregisteredusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\usecases\\commands\\user\\efregisteredusercommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C68836CC-619E-43EB-9809-3DF0E98D76F3}|GETFlightApp.Tests\\GETFlightApp.Tests.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.tests\\reservationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C68836CC-619E-43EB-9809-3DF0E98D76F3}|GETFlightApp.Tests\\GETFlightApp.Tests.csproj|solutionrelative:getflightapp.tests\\reservationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\usecases\\commands\\reservation\\icreatereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\usecases\\commands\\reservation\\icreatereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\validation\\flight\\createflightvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\validation\\flight\\createflightvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\usecases\\commands\\flight\\efcreateflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\usecases\\commands\\flight\\efcreateflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\usecases\\commands\\flight\\icancelflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\usecases\\commands\\flight\\icancelflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\core\\jwttokencreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\core\\jwttokencreator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\zarko\\source\\repos\\getflightapp\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|c:\\users\\zarko\\source\\repos\\getflightapp\\docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{81DDED9D-158B-E303-5F62-77A2896D2A5A}|docker-compose.dcproj|solutionrelative:docker-compose.dcproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\dockerfile||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\getflightapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\getflightapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\validation\\reservation\\createreservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\validation\\reservation\\createreservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\hubs\\reservationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\hubs\\reservationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\usecases\\commands\\reservation\\efapprovereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\usecases\\commands\\reservation\\efapprovereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\usecases\\queries\\flight\\efgetflightquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\usecases\\queries\\flight\\efgetflightquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\usecases\\queries\\reservation\\efgetuserreservationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\usecases\\queries\\reservation\\efgetuserreservationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\validation\\flight\\flightsearchvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\validation\\flight\\flightsearchvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\dto\\flight\\flightsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\dto\\flight\\flightsearchdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\controllers\\flightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\usecases\\queries\\flight\\ifindflightquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\usecases\\queries\\flight\\ifindflightquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\dto\\reservation\\userreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\dto\\reservation\\userreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\validation\\reservation\\approvereservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\validation\\reservation\\approvereservationvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.dataaccess\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|solutionrelative:getflightapp.dataaccess\\configurations\\reservationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\core\\extentionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\core\\extentionmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\dto\\flight\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\dto\\flight\\flightdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|solutionrelative:getflightapp.domain\\entities\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|solutionrelative:getflightapp.domain\\entities\\status.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\core\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\core\\globalexceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\usecases\\queries\\reservation\\igetuserreservationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\usecases\\queries\\reservation\\igetuserreservationquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\dto\\reservation\\searchreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\dto\\reservation\\searchreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\usecases\\commands\\flight\\efcancelflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\usecases\\commands\\flight\\efcancelflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\usecasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\usecasehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\dto\\reservation\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\dto\\reservation\\createreservationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.domain\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|solutionrelative:getflightapp.domain\\entities\\flight.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.dataaccess\\configurations\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|solutionrelative:getflightapp.dataaccess\\configurations\\flightconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.dataaccess\\configurations\\statusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|solutionrelative:getflightapp.dataaccess\\configurations\\statusconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250224155059_InitalMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GETFlightApp.DataAccess\\Migrations\\20250224155059_InitalMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\actor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\validation\\user\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\validation\\user\\registeruservalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\dto\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\dto\\user\\registeruserdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250224152053_InitalMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GETFlightApp.DataAccess\\Migrations\\20250224152053_InitalMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\defaultactorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\defaultactorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\iapplicationactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\iapplicationactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\core\\jwtapplicationactorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\core\\jwtapplicationactorprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250224150655_InitalMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GETFlightApp.DataAccess\\Migrations\\20250224150655_InitalMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.dataaccess\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|solutionrelative:getflightapp.dataaccess\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\usecases\\commands\\reservation\\iapprovereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\usecases\\commands\\reservation\\iapprovereservationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\usecases\\queries\\flight\\igetflightquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\usecases\\queries\\flight\\igetflightquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.dataaccess\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|solutionrelative:getflightapp.dataaccess\\configurations\\roleconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\usecaseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\usecaseinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\dto\\pagedrepsonse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\dto\\pagedrepsonse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\usecases\\commands\\flight\\icreateflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\usecases\\commands\\flight\\icreateflightcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250223232555_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GETFlightApp.DataAccess\\Migrations\\20250223232555_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|solutionrelative:getflightapp.domain\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\dto\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\dto\\authrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\dto\\authresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250223174743_InitalMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GETFlightApp.DataAccess\\Migrations\\20250223174743_InitalMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.dataaccess\\configurations\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF2AF846-0AF9-4801-8D7B-67A764DB595A}|GETFlightApp.DataAccess\\GETFlightApp.DataAccess.csproj|solutionrelative:getflightapp.dataaccess\\configurations\\cityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|solutionrelative:getflightapp.domain\\primitives\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|solutionrelative:getflightapp.domain\\entities\\city.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|solutionrelative:getflightapp.domain\\entities\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.domain\\entities\\roleusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|solutionrelative:getflightapp.domain\\entities\\roleusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250223170203_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:GETFlightApp.DataAccess\\Migrations\\20250223170203_InitialMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\getflightapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\getflightapp.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\usecases\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\usecases\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\usecases\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\usecases\\icommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\core\\iexceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\core\\iexceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\logging\\consoleusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\logging\\consoleusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\core\\consoleexceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\core\\consoleexceptionlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\exceptions\\entitynotfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\iusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\iusecaselogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.domain\\getflightapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1CCA268F-EFDC-49A4-9440-B3C95B4DE16A}|GETFlightApp.Domain\\GETFlightApp.Domain.csproj|solutionrelative:getflightapp.domain\\getflightapp.domain.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\usecases\\efusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\usecases\\efusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\iquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.application\\usecases\\iusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D97F2E5-7494-409B-A04D-620120EF84B4}|GETFlightApp.Application\\GETFlightApp.Application.csproj|solutionrelative:getflightapp.application\\usecases\\iusecase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\core\\inmemorytokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\core\\inmemorytokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp\\core\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2C8AE90-7B95-4C8E-A19D-286A541FC75D}|GETFlightApp\\GETFlightApp.csproj|solutionrelative:getflightapp\\core\\itokenstorage.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|c:\\users\\zarko\\source\\repos\\getflightapp\\getflightapp.implementation\\getflightapp.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{A33AD959-9D6C-41E1-A5DB-6A969726B194}|GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj|solutionrelative:getflightapp.implementation\\getflightapp.implementation.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\zarko\\source\\repos\\ProjectASP\\ProjectASP.API\\AppSettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 296,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserTests.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Tests\\UserTests.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Tests\\UserTests.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Tests\\UserTests.cs",
+              "RelativeToolTip": "GETFlightApp.Tests\\UserTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:31:32.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Program.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Program.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Program.cs",
+              "RelativeToolTip": "GETFlightApp\\Program.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAADwvy8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:00:33.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FlightTests.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Tests\\FlightTests.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Tests\\FlightTests.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Tests\\FlightTests.cs",
+              "RelativeToolTip": "GETFlightApp.Tests\\FlightTests.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAA5wAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:22:28.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EfCreateReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Commands\\Reservation\\EfCreateReservationCommand.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\UseCases\\Commands\\Reservation\\EfCreateReservationCommand.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Commands\\Reservation\\EfCreateReservationCommand.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\UseCases\\Commands\\Reservation\\EfCreateReservationCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:40:55.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AspContext.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\AspContext.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\AspContext.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\AspContext.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\AspContext.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwCMAAACxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T13:37:33.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IRegisterUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Commands\\User\\IRegisterUserCommand.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\UseCases\\Commands\\User\\IRegisterUserCommand.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Commands\\User\\IRegisterUserCommand.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\UseCases\\Commands\\User\\IRegisterUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:29:02.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EfRegisteredUserCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Commands\\User\\EfRegisteredUserCommand.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\UseCases\\Commands\\User\\EfRegisteredUserCommand.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Commands\\User\\EfRegisteredUserCommand.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\UseCases\\Commands\\User\\EfRegisteredUserCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:49:18.27Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReservationTests.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Tests\\ReservationTests.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Tests\\ReservationTests.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Tests\\ReservationTests.cs",
+              "RelativeToolTip": "GETFlightApp.Tests\\ReservationTests.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAcwFMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T14:31:46.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICreateReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Commands\\Reservation\\ICreateReservationCommand.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\UseCases\\Commands\\Reservation\\ICreateReservationCommand.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Commands\\Reservation\\ICreateReservationCommand.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\UseCases\\Commands\\Reservation\\ICreateReservationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:36:58.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateFlightValidator.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Validation\\Flight\\CreateFlightValidator.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\Validation\\Flight\\CreateFlightValidator.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Validation\\Flight\\CreateFlightValidator.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\Validation\\Flight\\CreateFlightValidator.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:28:32.76Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICancelFlightCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Commands\\Flight\\ICancelFlightCommand.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\UseCases\\Commands\\Flight\\ICancelFlightCommand.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Commands\\Flight\\ICancelFlightCommand.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\UseCases\\Commands\\Flight\\ICancelFlightCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:19:00.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "JwtTokenCreator.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\JwtTokenCreator.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Core\\JwtTokenCreator.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\JwtTokenCreator.cs",
+              "RelativeToolTip": "GETFlightApp\\Core\\JwtTokenCreator.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAAABkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:17:25.953Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "EfGetFlightQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Queries\\Flight\\EfGetFlightQuery.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\UseCases\\Queries\\Flight\\EfGetFlightQuery.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Queries\\Flight\\EfGetFlightQuery.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\UseCases\\Queries\\Flight\\EfGetFlightQuery.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:10:19.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "EfCreateFlightCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Commands\\Flight\\EfCreateFlightCommand.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\UseCases\\Commands\\Flight\\EfCreateFlightCommand.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Commands\\Flight\\EfCreateFlightCommand.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\UseCases\\Commands\\Flight\\EfCreateFlightCommand.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAsAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:51:27.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dockerfile",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Dockerfile",
+              "RelativeDocumentMoniker": "GETFlightApp\\Dockerfile",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Dockerfile",
+              "RelativeToolTip": "GETFlightApp\\Dockerfile",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABUAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-27T15:45:18.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "docker-compose",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\docker-compose.dcproj",
+              "RelativeDocumentMoniker": "docker-compose.dcproj",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\docker-compose.dcproj",
+              "RelativeToolTip": "docker-compose.dcproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-28T13:13:00.484Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "docker-compose.yml",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\docker-compose.yml",
+              "RelativeDocumentMoniker": "docker-compose.yml",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\docker-compose.yml",
+              "RelativeToolTip": "docker-compose.yml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2025-02-28T13:13:05.054Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "CreateReservationValidator.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Validation\\Reservation\\CreateReservationValidator.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\Validation\\Reservation\\CreateReservationValidator.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Validation\\Reservation\\CreateReservationValidator.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\Validation\\Reservation\\CreateReservationValidator.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwB0AAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:02:03.982Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "FlightSearchValidator.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Validation\\Flight\\FlightSearchValidator.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\Validation\\Flight\\FlightSearchValidator.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Validation\\Flight\\FlightSearchValidator.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\Validation\\Flight\\FlightSearchValidator.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAowBIAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:18:57.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ReservationHub.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Hubs\\ReservationHub.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\Hubs\\ReservationHub.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Hubs\\ReservationHub.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\Hubs\\ReservationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T14:24:14.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GETFlightApp.csproj",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\GETFlightApp.csproj",
+              "RelativeDocumentMoniker": "GETFlightApp\\GETFlightApp.csproj",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\GETFlightApp.csproj",
+              "RelativeToolTip": "GETFlightApp\\GETFlightApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T16:09:58.176Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "FlightController.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Controllers\\FlightController.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Controllers\\FlightController.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Controllers\\FlightController.cs",
+              "RelativeToolTip": "GETFlightApp\\Controllers\\FlightController.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwB0AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:33:36.892Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "GETFlightApp\\Controllers\\ReservationController.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAnwBoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:33:53.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "EfApproveReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Commands\\Reservation\\EfApproveReservationCommand.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\UseCases\\Commands\\Reservation\\EfApproveReservationCommand.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Commands\\Reservation\\EfApproveReservationCommand.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\UseCases\\Commands\\Reservation\\EfApproveReservationCommand.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwCUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:50:37.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "EfGetUserReservationQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Queries\\Reservation\\EfGetUserReservationQuery.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\UseCases\\Queries\\Reservation\\EfGetUserReservationQuery.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Queries\\Reservation\\EfGetUserReservationQuery.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\UseCases\\Queries\\Reservation\\EfGetUserReservationQuery.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAIwBgAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T14:48:16.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "FlightSearchDTO.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\Flight\\FlightSearchDTO.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\DTO\\Flight\\FlightSearchDTO.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\Flight\\FlightSearchDTO.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\DTO\\Flight\\FlightSearchDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T13:31:04.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "IFindFlightQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Queries\\Flight\\IFindFlightQuery.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\UseCases\\Queries\\Flight\\IFindFlightQuery.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Queries\\Flight\\IFindFlightQuery.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\UseCases\\Queries\\Flight\\IFindFlightQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:09:16.602Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Controllers\\UserController.cs",
+              "RelativeToolTip": "GETFlightApp\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAswCEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:18:06.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApproveReservationValidator.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Validation\\Reservation\\ApproveReservationValidator.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\Validation\\Reservation\\ApproveReservationValidator.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Validation\\Reservation\\ApproveReservationValidator.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\Validation\\Reservation\\ApproveReservationValidator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwBIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T10:59:39.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UserReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\Reservation\\UserReservationDTO.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\DTO\\Reservation\\UserReservationDTO.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\Reservation\\UserReservationDTO.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\DTO\\Reservation\\UserReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T18:21:22.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ReservationConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\ReservationConfiguration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Configurations\\ReservationConfiguration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\ReservationConfiguration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Configurations\\ReservationConfiguration.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:11:08.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ExtentionMethods.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\ExtentionMethods.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Core\\ExtentionMethods.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\ExtentionMethods.cs",
+              "RelativeToolTip": "GETFlightApp\\Core\\ExtentionMethods.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAIBJwCMAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:12:16.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "FlightDTO.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\Flight\\FlightDTO.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\DTO\\Flight\\FlightDTO.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\Flight\\FlightDTO.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\DTO\\Flight\\FlightDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:09:27.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Status.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\Status.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Domain\\Entities\\Status.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\Status.cs",
+              "RelativeToolTip": "GETFlightApp.Domain\\Entities\\Status.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:57:11.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\Reservation.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Domain\\Entities\\Reservation.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\Reservation.cs",
+              "RelativeToolTip": "GETFlightApp.Domain\\Entities\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:58:34.607Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "GlobalExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\GlobalExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Core\\GlobalExceptionHandlingMiddleware.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\GlobalExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "GETFlightApp\\Core\\GlobalExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADgvxkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:15:03.921Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "IGetUserReservationQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Queries\\Reservation\\IGetUserReservationQuery.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\UseCases\\Queries\\Reservation\\IGetUserReservationQuery.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Queries\\Reservation\\IGetUserReservationQuery.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\UseCases\\Queries\\Reservation\\IGetUserReservationQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T11:41:00.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "SearchReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\Reservation\\SearchReservationDTO.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\DTO\\Reservation\\SearchReservationDTO.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\Reservation\\SearchReservationDTO.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\DTO\\Reservation\\SearchReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T12:39:27.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EfCancelFlightCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Commands\\Flight\\EfCancelFlightCommand.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\UseCases\\Commands\\Flight\\EfCancelFlightCommand.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\Commands\\Flight\\EfCancelFlightCommand.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\UseCases\\Commands\\Flight\\EfCancelFlightCommand.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAtwCUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T20:15:17.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "CreateReservationDTO.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\Reservation\\CreateReservationDTO.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\DTO\\Reservation\\CreateReservationDTO.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\Reservation\\CreateReservationDTO.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\DTO\\Reservation\\CreateReservationDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:36:30.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "UseCaseHandler.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCaseHandler.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\UseCaseHandler.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCaseHandler.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\UseCaseHandler.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAADgvzQAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:23:12.108Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Flight.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\Flight.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Domain\\Entities\\Flight.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\Flight.cs",
+              "RelativeToolTip": "GETFlightApp.Domain\\Entities\\Flight.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:58:24.091Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "FlightConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\FlightConfiguration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Configurations\\FlightConfiguration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\FlightConfiguration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Configurations\\FlightConfiguration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAADwvzQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:17:11.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "StatusConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\StatusConfiguration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Configurations\\StatusConfiguration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\StatusConfiguration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Configurations\\StatusConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAxwBMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:11:31.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20250224155059_InitalMigration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250224155059_InitalMigration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Migrations\\20250224155059_InitalMigration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250224155059_InitalMigration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Migrations\\20250224155059_InitalMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:50:59.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Actor.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Actor.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\Actor.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Actor.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\Actor.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAgwBUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:36:36.697Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "RegisterUserValidator.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Validation\\User\\RegisterUserValidator.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\Validation\\User\\RegisterUserValidator.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Validation\\User\\RegisterUserValidator.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\Validation\\User\\RegisterUserValidator.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:39:01.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "RegisterUserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\User\\RegisterUserDTO.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\DTO\\User\\RegisterUserDTO.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\User\\RegisterUserDTO.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\DTO\\User\\RegisterUserDTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:29:15.554Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "DefaultActorProvider.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\DefaultActorProvider.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\DefaultActorProvider.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\DefaultActorProvider.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\DefaultActorProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:23:32.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAQwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:10:35.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "20250224152053_InitalMigration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250224152053_InitalMigration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Migrations\\20250224152053_InitalMigration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250224152053_InitalMigration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Migrations\\20250224152053_InitalMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:20:54.005Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "JwtApplicationActorProvider.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\JwtApplicationActorProvider.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Core\\JwtApplicationActorProvider.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\JwtApplicationActorProvider.cs",
+              "RelativeToolTip": "GETFlightApp\\Core\\JwtApplicationActorProvider.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAiwCYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:16:47.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IApplicationActor.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\IApplicationActor.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\IApplicationActor.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\IApplicationActor.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\IApplicationActor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:18:49.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250224150655_InitalMigration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250224150655_InitalMigration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Migrations\\20250224150655_InitalMigration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250224150655_InitalMigration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Migrations\\20250224150655_InitalMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T15:06:55.834Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "IGetFlightQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Queries\\Flight\\IGetFlightQuery.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\UseCases\\Queries\\Flight\\IGetFlightQuery.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Queries\\Flight\\IGetFlightQuery.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\UseCases\\Queries\\Flight\\IGetFlightQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:58:10.912Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "IApproveReservationCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Commands\\Reservation\\IApproveReservationCommand.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\UseCases\\Commands\\Reservation\\IApproveReservationCommand.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Commands\\Reservation\\IApproveReservationCommand.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\UseCases\\Commands\\Reservation\\IApproveReservationCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:44:46.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "RoleConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\RoleConfiguration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Configurations\\RoleConfiguration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\RoleConfiguration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Configurations\\RoleConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAUAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:11:43.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "UseCaseInfo.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCaseInfo.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\UseCaseInfo.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCaseInfo.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\UseCaseInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:23:27.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "PagedRepsonse.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\PagedRepsonse.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\DTO\\PagedRepsonse.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\DTO\\PagedRepsonse.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\DTO\\PagedRepsonse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-24T00:08:17.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ICreateFlightCommand.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Commands\\Flight\\ICreateFlightCommand.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\UseCases\\Commands\\Flight\\ICreateFlightCommand.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\Commands\\Flight\\ICreateFlightCommand.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\UseCases\\Commands\\Flight\\ICreateFlightCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:52:22.769Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20250223232555_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250223232555_InitialMigration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Migrations\\20250223232555_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250223232555_InitialMigration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Migrations\\20250223232555_InitialMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:25:55.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Domain\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\User.cs",
+              "RelativeToolTip": "GETFlightApp.Domain\\Entities\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:40:27.924Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "AuthRequest.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\DTO\\AuthRequest.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\DTO\\AuthRequest.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\DTO\\AuthRequest.cs",
+              "RelativeToolTip": "GETFlightApp\\DTO\\AuthRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:09:52.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "AuthResponse.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\DTO\\AuthResponse.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\DTO\\AuthResponse.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\DTO\\AuthResponse.cs",
+              "RelativeToolTip": "GETFlightApp\\DTO\\AuthResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T23:10:01.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "CityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\CityConfiguration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Configurations\\CityConfiguration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Configurations\\CityConfiguration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Configurations\\CityConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T00:12:06.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20250223174743_InitalMigration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250223174743_InitalMigration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Migrations\\20250223174743_InitalMigration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250223174743_InitalMigration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Migrations\\20250223174743_InitalMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:47:43.257Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "Entity.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Primitives\\Entity.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Domain\\Primitives\\Entity.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Primitives\\Entity.cs",
+              "RelativeToolTip": "GETFlightApp.Domain\\Primitives\\Entity.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAIAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:21:07.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "City.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\City.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Domain\\Entities\\City.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\City.cs",
+              "RelativeToolTip": "GETFlightApp.Domain\\Entities\\City.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T23:58:11.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "Role.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\Role.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Domain\\Entities\\Role.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\Role.cs",
+              "RelativeToolTip": "GETFlightApp.Domain\\Entities\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:42:22.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "RoleUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\RoleUseCase.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Domain\\Entities\\RoleUseCase.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\Entities\\RoleUseCase.cs",
+              "RelativeToolTip": "GETFlightApp.Domain\\Entities\\RoleUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:42:58.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20250223170203_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250223170203_InitialMigration.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.DataAccess\\Migrations\\20250223170203_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.DataAccess\\Migrations\\20250223170203_InitialMigration.cs",
+              "RelativeToolTip": "GETFlightApp.DataAccess\\Migrations\\20250223170203_InitialMigration.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-23T17:02:03.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "GETFlightApp\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\appsettings.Development.json",
+              "RelativeToolTip": "GETFlightApp\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAACKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-22T16:57:50.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "GETFlightApp.Application.csproj",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\GETFlightApp.Application.csproj",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\GETFlightApp.Application.csproj",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\GETFlightApp.Application.csproj",
+              "RelativeToolTip": "GETFlightApp.Application\\GETFlightApp.Application.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T23:28:33.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\IQuery.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\UseCases\\IQuery.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\IQuery.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\UseCases\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:19:01.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "ICommand.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\ICommand.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\UseCases\\ICommand.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\ICommand.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\UseCases\\ICommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:19:02.868Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "ConsoleUseCaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Logging\\ConsoleUseCaseLogger.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\Logging\\ConsoleUseCaseLogger.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\Logging\\ConsoleUseCaseLogger.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\Logging\\ConsoleUseCaseLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:25:39.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "IExceptionLogger.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\IExceptionLogger.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Core\\IExceptionLogger.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\IExceptionLogger.cs",
+              "RelativeToolTip": "GETFlightApp\\Core\\IExceptionLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:16:12.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "ConsoleExceptionLogger.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\ConsoleExceptionLogger.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Core\\ConsoleExceptionLogger.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\ConsoleExceptionLogger.cs",
+              "RelativeToolTip": "GETFlightApp\\Core\\ConsoleExceptionLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:02:52.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "EntityNotFoundException.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\Exceptions\\EntityNotFoundException.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\Exceptions\\EntityNotFoundException.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\Exceptions\\EntityNotFoundException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:29:59.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "IUseCaseLogger.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\IUseCaseLogger.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\IUseCaseLogger.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\IUseCaseLogger.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\IUseCaseLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:18:28.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "GETFlightApp.Domain.csproj",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\GETFlightApp.Domain.csproj",
+              "RelativeDocumentMoniker": "GETFlightApp.Domain\\GETFlightApp.Domain.csproj",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Domain\\GETFlightApp.Domain.csproj",
+              "RelativeToolTip": "GETFlightApp.Domain\\GETFlightApp.Domain.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T16:20:15.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "EfUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\EfUseCase.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\UseCases\\EfUseCase.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\UseCases\\EfUseCase.cs",
+              "RelativeToolTip": "GETFlightApp.Implementation\\UseCases\\EfUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:24:07.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 82,
+              "Title": "IQuery.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\IQuery.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\IQuery.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\IQuery.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\IQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:18:36.832Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 83,
+              "Title": "IUseCase.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\IUseCase.cs",
+              "RelativeDocumentMoniker": "GETFlightApp.Application\\UseCases\\IUseCase.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Application\\UseCases\\IUseCase.cs",
+              "RelativeToolTip": "GETFlightApp.Application\\UseCases\\IUseCase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:18:58.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 85,
+              "Title": "ITokenStorage.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\ITokenStorage.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Core\\ITokenStorage.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\ITokenStorage.cs",
+              "RelativeToolTip": "GETFlightApp\\Core\\ITokenStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:16:37.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 84,
+              "Title": "InMemoryTokenStorage.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\InMemoryTokenStorage.cs",
+              "RelativeDocumentMoniker": "GETFlightApp\\Core\\InMemoryTokenStorage.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp\\Core\\InMemoryTokenStorage.cs",
+              "RelativeToolTip": "GETFlightApp\\Core\\InMemoryTokenStorage.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:16:26.202Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 86,
+              "Title": "GETFlightApp.Implementation.csproj",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj",
+              "RelativeDocumentMoniker": "GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\GETFlightApp\\GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj",
+              "RelativeToolTip": "GETFlightApp.Implementation\\GETFlightApp.Implementation.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-22T16:09:44.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 87,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\zarko\\source\\repos\\ProjectASP\\ProjectASP.API\\AppSettings.cs",
+              "RelativeDocumentMoniker": "..\\ProjectASP\\ProjectASP.API\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\zarko\\source\\repos\\ProjectASP\\ProjectASP.API\\AppSettings.cs",
+              "RelativeToolTip": "..\\ProjectASP\\ProjectASP.API\\AppSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-22T16:01:46.815Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

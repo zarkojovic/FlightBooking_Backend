@@ -1,0 +1,9 @@
+services:
+  getflightapp:
+    image: ${DOCKER_REGISTRY-}getflightapp
+    build:
+      context: .
+      dockerfile: GETFlightApp/Dockerfile
+    ports:
+    - 5000:8080
+    - 5001:8081

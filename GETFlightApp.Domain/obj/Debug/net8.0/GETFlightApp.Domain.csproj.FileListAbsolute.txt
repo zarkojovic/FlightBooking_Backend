@@ -1,0 +1,12 @@
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\bin\Debug\net8.0\GETFlightApp.Domain.deps.json
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\bin\Debug\net8.0\GETFlightApp.Domain.dll
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\bin\Debug\net8.0\GETFlightApp.Domain.pdb
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\obj\Debug\net8.0\GETFlightApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\obj\Debug\net8.0\GETFlightApp.Domain.AssemblyInfoInputs.cache
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\obj\Debug\net8.0\GETFlightApp.Domain.AssemblyInfo.cs
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\obj\Debug\net8.0\GETFlightApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\obj\Debug\net8.0\GETFlightApp.Domain.sourcelink.json
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\obj\Debug\net8.0\GETFlightApp.Domain.dll
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\obj\Debug\net8.0\refint\GETFlightApp.Domain.dll
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\obj\Debug\net8.0\GETFlightApp.Domain.pdb
+C:\Users\zarko\source\repos\GETFlightApp\GETFlightApp.Domain\obj\Debug\net8.0\ref\GETFlightApp.Domain.dll
